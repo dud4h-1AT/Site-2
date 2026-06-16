@@ -8,4 +8,8 @@ body {
     heigth: 100%;
 }
 
-.capa {}
+.capa {
+    width: 100%;
+    object-fit: cover;
+    heigth: 400px;
+}
