@@ -101,3 +101,26 @@ footer {
     padding: 60px;
     font-size: 25px;
 }
+
+.topo {
+    display: flex;
+    gap: 20px;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    align-items: flex-start;
+}
+
+.topo img {
+    width: 45%;
+    border-radius: 10px;
+}
+
+.info {
+    width: 55%;
+}
+
+.info h2 {
+    color: #ff4d4d;
+    margin-top: 0;
+}
